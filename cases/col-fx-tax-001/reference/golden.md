@@ -344,6 +344,6 @@ Una conclusión cautelosa sobre CS-04, la estructura de financiación de HM-9908
 - N06  Banco de la República: índice oficial de versiones de la Circular Reglamentaria Externa DCIP-83, incluida la modificación de 25.08.2026. https://www.banrep.gov.co/es/buscador-reglamentacion-cambiaria?field_regla_tid=4025&title=83
 - N07  Comunidad Andina, Decisión 571 y Resolución 1684/2014, arts. 4–5, 8, 10, 18, 20, 27–28 y 33. https://normograma.dian.gov.co/dian/compilacion/docs/resolucion_sgcandina_rsg1684.htm
 - N08  Estatuto Tributario, arts. 24, 107, 121, 288, 406, 408, 420, 437-1 y 437-2. https://www.cancilleria.gov.co/normograma/compilacion/docs/estatuto_tributario.htm
-- N09  DIAN, Concepto 015299/2026: intangibles digitales, IVA y servicios/retención exterior. https://normograma.dian.gov.co/dian/compilacion/docs/oficio_dian_15299_2026.htm
+- N09  DIAN, Oficio 015299/2026: tratamiento aduanero y tributario de bienes, intangibles y servicios recibidos en el marco de acuerdos de compensación industrial (Offset) y derivados; referencia complementaria sobre servicios e intangibles del exterior. https://normograma.dian.gov.co/dian/compilacion/docs/oficio_dian_15299_2026.htm
 - N10  DIAN, Resolución 000238/2025: UVT 2026 = COP 52.374. https://normograma.dian.gov.co/dian/compilacion/docs/resolucion_dian_0238_2025.htm
 - N11  Superintendencia Financiera de Colombia: certificación histórica de TRM. https://www.superfinanciera.gov.co/CertificadoTRM/
